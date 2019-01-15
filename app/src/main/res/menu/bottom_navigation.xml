@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/movie"
+        android:enabled="true"
+        android:icon="@drawable/tab_movies_selected"
+        app:showAsAction="ifRoom"
+        android:title="@string/movie" />
+
+    <item
+        android:id="@+id/tv"
+        android:enabled="true"
+        android:icon="@drawable/tab_tv"
+        app:showAsAction="ifRoom"
+        android:title="@string/tv" />
+
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/tab_profile"
+        app:showAsAction="ifRoom"
+        android:title="@string/profile" />
+</menu>

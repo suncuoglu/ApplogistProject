@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ApplogistProject</string>
+    <string name="profile">Profile</string>
+    <string name="tv">Tv</string>
+    <string name="movie">Movie</string>
+    <string name="top_rated_mov_es">TOP RATED MOVİES</string>
+    <string name="popular">Popular</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="back"><![CDATA[< Back]]></string>
+    <string name="category">Category</string>
+    <string name="point">Point</string>
+    <string name="details">Details</string>
+    <string name="full_cast_crew"><![CDATA[Full Cast & Crew]]></string>
+</resources>
